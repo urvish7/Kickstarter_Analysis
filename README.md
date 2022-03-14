@@ -1,10 +1,10 @@
 
 # Boot Camp Module 1 Challenge
-# Kickstarting with Excel
+# Kickstarter-Analysis with Excel
 ## Overview of Project
   Louise’s play Fever is near to its fundraising goal in a less amount of time. She like to have an analysis of the different campaigns fared in respect to their             launch dates and their funding goals.  
 ### Purpose
-  This project is about using the data that been gathered and analysing-visualizing the campaign outcome. The key factor that we used to analyze the events are based on their launch dates and funding goals. 
+  This project is about using the data that been gathered and analysing-visualizing the campaign outcome. The key factors that we used to analyze the events are based on their launch dates and funding goals. 
 
 ## Analysis and Challenges
  Initially, as Excel is one of the best tools in the market for doing analysis, to learn its features was little time consuming and challanging. However, once got familiar with the drill it was progressive. We have to understand,why we are taking the few data as the reference and how it makes an impact on the results. With proper study allocation time and thoroughly going data helps a lot in overcoming the challenge and at the end things were understandable and results were on expectations. 
@@ -46,36 +46,35 @@ The percentage of the failed events increases gradually from lowest goal budget 
 ### Challenges and Difficulties Encountered
    There are challenges in learning anything new and challenges shows the progress. This project taught and refreshed my excel skill. The challenges that I faced during this project are:
    
-   ```
-   Filtering the pivot charts inorder to get the right data displayed on chart. 
-   Applying the formulas and double check the results by filtering the results.
+  - Filtering the pivot charts inorder to get the right data displayed on chart.
+   
+  - Applying the formulas and double check the results by filtering the results.
    The above-mentioned points were tedious and   little challenging as took a back-and-forth approach. 
    
-   ```
+   
    
   
 ## Results
 
  What are two conclusions you can draw about the Outcomes based on Launch Date?
  
- 1. The number of Successful events is greater than the number of the failed events.
- 2.  The month May has highest number of events occurred. 
+ 1. The number of Successful events is greater than the number of the failed events which makes the overall project successful.
+ 2.  The month May has highest number of events occurred.
      
  What can you conclude about the Outcomes based on Goals?
  
 1. The number of the canceled events are very low that it doesn’t affect the overall outcome.
-2.  At range from 450000 to 44999 the failed percentage hits the maximum and successful percentage hits the bottom. 
+2.  At range from 450000 to 44999 the failed percentage hit the maximum and successful percentage is minimum.  
      
  What are some limitations of this dataset?
- The amounts are in dollars however when it comes to currency conversion it limits the data at this point. 
- The reason of making the events successful / failed / canceled is not mentioned and limits the ability to analyze the reason behind them.
+ 
+ - The amounts are in dollars however when it comes to currency conversion it limits the data at this point. 
+ 
+ - The reason of making the events successful / failed / canceled is not mentioned and limits the ability to analyze the reason behind them.
  What are some other possible tables and/or graphs that we could create?
  
-   The possible tables: 
-   ```
-           The pledged column can be used instead of the goal column.
-           Can filter according the country data as well.
-   ```                 
-   The possible graphs: 
-    
-           The column chart, Pie, Bar, Box & Whisker etc. can be done as graphical representation.
+   The possible tables:   
+        *The pledged column can be used instead of the goal column. Also, Can filter according the country data as well.*
+        
+   The possible graphs:     
+        *The column chart, Pie, Bar, Box & Whisker etc. can be done as graphical representation.*

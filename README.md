@@ -1,5 +1,4 @@
 
-# Boot Camp Module 1 Challenge
 # Kickstarter-Analysis with Excel
 ## Overview of Project
   Louise’s play Fever is near to its fundraising goal in a less amount of time. She like to have an analysis of the different campaigns fared in respect to their             launch dates and their funding goals.  
